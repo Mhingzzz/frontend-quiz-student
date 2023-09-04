@@ -2,7 +2,7 @@ import { Text } from "@mantine/core";
 export default function Name() {
   return (
     <Text ta="right" color="gray">
-      Add Your Name Here
+      ณฐพงศ์ พงศาวลีศรี 640610630
     </Text>
   );
 }
